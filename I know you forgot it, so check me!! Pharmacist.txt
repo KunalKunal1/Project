@@ -1,0 +1,14 @@
+Create a database in my sql
+then open python IDLE and write a code with 
+import mysql.connector
+
+conn = mysql.connector.connect(host="localhost", user="kunal", passwd="kunal", database="library1"
+
+in the above code the password, username and database will be match to your sql username, password and
+the database must be created with same name.
+
+if there is error while connecting to python you can watch the video in watch later list or python playlist.
+
+
+
+Thank You..................!!!!!
